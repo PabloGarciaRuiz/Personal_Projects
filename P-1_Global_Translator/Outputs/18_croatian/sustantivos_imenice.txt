@@ -1,0 +1,5 @@
+casa : Kuća
+perro : pas
+gato : mačka
+lagarto : gušter
+dinosaurio : dinosaurus

@@ -1,0 +1,5 @@
+casa : ቤት
+perro : ውሻ
+gato : ድመት
+lagarto : እንሽላሊት
+dinosaurio : ዳይኖሰር

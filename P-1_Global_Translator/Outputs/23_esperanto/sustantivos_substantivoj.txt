@@ -1,0 +1,5 @@
+casa : Domo
+perro : hundo
+gato : kato
+lagarto : lacerto
+dinosaurio : dinosaŭro

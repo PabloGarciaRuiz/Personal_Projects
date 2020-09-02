@@ -1,0 +1,5 @@
+casa : 屋
+perro : 狗
+gato : 貓
+lagarto : 蜥蜴
+dinosaurio : 恐龍

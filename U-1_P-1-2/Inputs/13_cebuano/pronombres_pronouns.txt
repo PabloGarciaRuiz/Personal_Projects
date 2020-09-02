@@ -1,0 +1,6 @@
+yo : kanako
+ tu
+él / ella : siya siya
+nosotros / nosotras : kami / kami
+vosotros / vosotras : ikaw
+ellos / ellas : sila / sila

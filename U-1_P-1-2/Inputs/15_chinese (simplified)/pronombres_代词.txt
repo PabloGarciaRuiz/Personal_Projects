@@ -1,0 +1,6 @@
+yo : 我
+ tu
+él / ella : 他她
+nosotros / nosotras : 我们/我们
+vosotros / vosotras : 你你
+ellos / ellas : 他们/他们

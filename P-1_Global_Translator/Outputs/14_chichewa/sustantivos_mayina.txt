@@ -1,0 +1,5 @@
+casa : Nyumba
+perro : galu
+gato : mphaka
+lagarto : buluzi
+dinosaurio : dinosaur

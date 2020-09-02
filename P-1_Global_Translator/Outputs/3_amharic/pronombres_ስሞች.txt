@@ -1,0 +1,6 @@
+yo : እኔ
+ tu
+él / ella : እሱ እሷ
+nosotros / nosotras : እኛ / እኛ
+vosotros / vosotras : አንተ
+ellos / ellas : እነሱ / እነሱ

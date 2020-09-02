@@ -1,0 +1,5 @@
+casa : shtëpi
+perro : qen
+gato : Mace
+lagarto : hardhucë
+dinosaurio : dinozaur

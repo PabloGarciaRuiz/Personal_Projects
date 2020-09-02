@@ -1,0 +1,6 @@
+yo : me
+ tu
+él / ella : hij zij
+nosotros / nosotras : wij Wij
+vosotros / vosotras : jij jij
+ellos / ellas : zij / zij

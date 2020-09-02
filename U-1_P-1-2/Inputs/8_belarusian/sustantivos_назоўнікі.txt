@@ -1,0 +1,5 @@
+casa : Дом
+perro : сабака
+gato : кот
+lagarto : яшчарка
+dinosaurio : дыназаўр

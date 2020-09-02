@@ -1,0 +1,6 @@
+yo : mi
+ tu
+él / ella : ellu
+nosotros / nosotras : noi / noi
+vosotros / vosotras : tù
+ellos / ellas : elli / elli

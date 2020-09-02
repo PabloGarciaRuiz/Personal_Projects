@@ -1,0 +1,5 @@
+casa : Balay
+perro : iro
+gato : iring
+lagarto : kadal
+dinosaurio : dinosaur

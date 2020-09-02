@@ -1,0 +1,5 @@
+casa : Ev
+perro : köpək
+gato : pişik
+lagarto : kərtənkələ
+dinosaurio : dinozavr

@@ -1,0 +1,6 @@
+yo : me
+ tu
+él / ella : berak
+nosotros / nosotras : gu / gu
+vosotros / vosotras : zu zu
+ellos / ellas : haiek / haiek

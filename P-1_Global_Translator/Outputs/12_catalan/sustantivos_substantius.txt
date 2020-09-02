@@ -1,0 +1,5 @@
+casa : casa
+perro : gos
+gato : gat
+lagarto : llangardaix
+dinosaurio : dinosaure

@@ -1,0 +1,5 @@
+casa : Etxea
+perro : txakur
+gato : katu
+lagarto : musker
+dinosaurio : dinosauro

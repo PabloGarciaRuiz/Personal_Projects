@@ -1,0 +1,5 @@
+casa : গৃহ
+perro : কুকুর
+gato : বিড়াল
+lagarto : টিকটিকি
+dinosaurio : অধুনালুপ্ত সরীসৃপবিশেষ

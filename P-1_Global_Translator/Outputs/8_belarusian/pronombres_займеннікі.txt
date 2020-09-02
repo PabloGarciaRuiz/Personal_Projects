@@ -1,0 +1,6 @@
+yo : мяне
+ tu
+él / ella : ён, яна
+nosotros / nosotras : мы / мы
+vosotros / vosotras : вы, вы
+ellos / ellas : яны / яны

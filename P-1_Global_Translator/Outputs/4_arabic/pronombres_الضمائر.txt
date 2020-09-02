@@ -1,0 +1,6 @@
+yo : أنا
+ tu
+él / ella : هو هي
+nosotros / nosotras : نحن / نحن
+vosotros / vosotras : انت انت
+ellos / ellas : انهم

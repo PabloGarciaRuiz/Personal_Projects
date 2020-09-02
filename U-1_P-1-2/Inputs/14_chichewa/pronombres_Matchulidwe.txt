@@ -1,0 +1,6 @@
+yo : ine
+ tu
+él / ella : iye
+nosotros / nosotras : ife / ife
+vosotros / vosotras : inu
+ellos / ellas : iwo / iwo

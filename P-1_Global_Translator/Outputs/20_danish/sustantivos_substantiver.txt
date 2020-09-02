@@ -1,0 +1,5 @@
+casa : Hus
+perro : hund
+gato : kat
+lagarto : firben
+dinosaurio : dinosaurus

@@ -1,0 +1,6 @@
+yo : jo
+ tu
+él / ella : ell / a
+nosotros / nosotras : nosaltres / nosaltres
+vosotros / vosotras : vosaltres / vosaltres
+ellos / ellas : ells / elles

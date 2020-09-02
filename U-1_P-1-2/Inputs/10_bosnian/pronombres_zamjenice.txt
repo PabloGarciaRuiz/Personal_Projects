@@ -1,0 +1,6 @@
+yo : ja
+ tu
+él / ella : on ona
+nosotros / nosotras : mi / mi
+vosotros / vosotras : ti ti
+ellos / ellas : oni / oni

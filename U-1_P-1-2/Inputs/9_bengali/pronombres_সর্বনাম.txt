@@ -1,0 +1,6 @@
+yo : আমাকে
+ tu
+él / ella : তিনি তিনি
+nosotros / nosotras : আমরা / আমরা
+vosotros / vosotras : তুমি
+ellos / ellas : তারা / তারা

@@ -1,0 +1,6 @@
+yo : menim
+ tu
+él / ella : o o
+nosotros / nosotras : biz / biz
+vosotros / vosotras : sən
+ellos / ellas : onlar / onlar

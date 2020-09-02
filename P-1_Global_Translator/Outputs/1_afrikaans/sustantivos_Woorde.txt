@@ -1,0 +1,5 @@
+casa : huis
+perro : hond
+gato : kat
+lagarto : Akkedis
+dinosaurio : dinosourus

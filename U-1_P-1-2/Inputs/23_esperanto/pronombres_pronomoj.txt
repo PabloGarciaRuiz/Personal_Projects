@@ -1,0 +1,6 @@
+yo : mi
+ tu
+él / ella : li Ŝi
+nosotros / nosotras : ni / ni
+vosotros / vosotras : vi vin
+ellos / ellas : ili / ili

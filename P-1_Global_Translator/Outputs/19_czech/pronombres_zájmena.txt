@@ -1,0 +1,6 @@
+yo : mě
+ tu
+él / ella : on ona
+nosotros / nosotras : my / my
+vosotros / vosotras : ty
+ellos / ellas : oni / oni

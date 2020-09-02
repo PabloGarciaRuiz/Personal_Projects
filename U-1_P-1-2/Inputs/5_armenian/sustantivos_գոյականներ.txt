@@ -1,0 +1,5 @@
+casa : Տուն
+perro : շուն
+gato : կատու
+lagarto : մողես
+dinosaurio : դինոզավր

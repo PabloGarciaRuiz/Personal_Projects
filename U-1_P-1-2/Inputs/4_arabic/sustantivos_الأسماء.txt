@@ -1,0 +1,5 @@
+casa : منزل
+perro : الكلب
+gato : قط
+lagarto : سحلية
+dinosaurio : ديناصور

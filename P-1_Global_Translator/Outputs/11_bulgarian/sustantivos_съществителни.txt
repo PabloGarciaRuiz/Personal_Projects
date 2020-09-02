@@ -1,0 +1,5 @@
+casa : къща
+perro : куче
+gato : котка
+lagarto : гущер
+dinosaurio : динозавър

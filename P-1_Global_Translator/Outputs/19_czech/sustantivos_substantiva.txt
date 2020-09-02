@@ -1,0 +1,5 @@
+casa : Dům
+perro : Pes
+gato : kočka
+lagarto : ještěrka
+dinosaurio : dinosaurus

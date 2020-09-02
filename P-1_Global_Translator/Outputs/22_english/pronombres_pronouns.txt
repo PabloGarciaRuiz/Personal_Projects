@@ -1,0 +1,6 @@
+yo : me
+ tu
+él / ella : he she
+nosotros / nosotras : we / we
+vosotros / vosotras : you you
+ellos / ellas : they / they

@@ -1,0 +1,5 @@
+casa : House
+perro : dog
+gato : cat
+lagarto : lizard
+dinosaurio : dinosaur

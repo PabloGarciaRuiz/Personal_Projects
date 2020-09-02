@@ -1,0 +1,7 @@
+--- básicos ---
+yo
+tu
+él / ella / ello
+nosotros / nosotras
+vosotros / vosotras
+ellos / ellas

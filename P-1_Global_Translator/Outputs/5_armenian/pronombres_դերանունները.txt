@@ -1,0 +1,6 @@
+yo : ես
+ tu
+él / ella : նա նա
+nosotros / nosotras : մենք / մենք
+vosotros / vosotras : դու դու
+ellos / ellas : նրանք / նրանք

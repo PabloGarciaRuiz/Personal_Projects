@@ -1,0 +1,6 @@
+yo : mig
+ tu
+él / ella : han hun
+nosotros / nosotras : vi / vi
+vosotros / vosotras : dig dig
+ellos / ellas : de / de
